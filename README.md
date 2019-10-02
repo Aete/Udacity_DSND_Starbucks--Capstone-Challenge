@@ -1,20 +1,22 @@
 # Udacity_DSND_Starbucks-Capstone-Challenge
-This is Seunggyun Han's project for Starbucks' Capstone Project in Udacity Data Scientist Nanodegree.
+This is Seunggyun Han's project for Starbucks' Capstone Project in Udacity Data Scientist Nanodegree.<br>
 
 # Objective
-The Objective of this project is for build recommendation system which finds the best offer for a customer.  
+The Objective of this project is for build recommendation system which finds the best offer for a customer.  <br>
 
 # 1. Install
-For installation, please clone or download this repository
+For installation, please clone or download this repository<br>
 
 ## 1.1 Requirement
 To run the jupyter notebook, please check requirements.txt file.<br><br>
 Also, You can create the virtual environment with below code. <br>
-`$ conda create --name <env> --file <this file>`
+`$ conda create --name <env> --file <this file>`<br>
 
 # 2. File description
 ## 2.1 Data
-Sorry, You are not able to use this. Because, I'm not sure there is any license problem with starbucks dataset.
+Sorry, You are not able to use this. Because, I'm not sure there is any license problem with starbucks dataset.<br>
 ## 2.2 Jupyter Notebook
-**Starbucks_Capstone_notebook.ipynb** is a jupyter notebook which contains cleaning processes of datasets and building ML model.
+**Starbucks_Capstone_notebook.ipynb** is a jupyter notebook which contains cleaning processes of datasets and building ML model.<br>
 
+## 2.3 Tools.py
+python file that contains functions to clean dataset
