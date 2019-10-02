@@ -18,5 +18,5 @@ Sorry, You are not able to use this. Because, I'm not sure there is any license 
 ## 2.2 Jupyter Notebook
 **Starbucks_Capstone_notebook.ipynb** is a jupyter notebook which contains cleaning processes of datasets and building ML model.<br>
 
-## 2.3 Tools.py
+## 2.3 tools.py
 python file that contains functions to clean dataset
